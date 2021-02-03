@@ -12,7 +12,7 @@ coviD3.js is a website run by TwoFortyNine. We specialize in telling stories thr
 
 ## Video Demo
 
-[video demo here](https://www.youtube.com/watch?v=EcRPQK6-89Q&feature=youtu.be)
+[![Video demo](https://img.youtube.com/vi/EcRPQK6-89Q/0.jpg)](https://www.youtube.com/watch?v=EcRPQK6-89Q&feature=youtu.be)
 
 ## Instructions
 
